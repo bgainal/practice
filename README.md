@@ -1,14 +1,12 @@
-# 제목
-## 제목2
-### 제목3
+# 백도 vs 황도
+1. __백도__
 
-_굵게_ __기울기__
+![백도](https://img.danawa.com/prod_img/500000/361/390/img/8390361_1.jpg?shrink=500:500&_v=20190627162912)
 
-  `강조`
-  
-  1. 첫번째 항목
-  2. 둘째 항목
-  
-  +순서 없는 항목
-  [링크1](https://www.google.com)  
-  ![사과](https://lh3.googleusercontent.com/proxy/DUi2if-fCCFMhCHQyiW-ogjPQlRcKy2X3VzF_y_XLqGtQ0ow2qonPskqjd-ZG0tEAwDOX6P5gxZD8rKvS_7_zBl19TCrsYkIoZQzV41fUVu6hZ-DvsLbmhu8LGXMd9Ot34xSJPiVr9igAucUskzbKllhCbU2_8MDTz2FXbb4nZlaw5rtPr2lRqqfvTbwyBcX7Xlz08JXvUzSwxkGAWeUaWmCxONiq37MpY6xasC5Laxb9sH9cUpKlDx8an34djsvt4K3ao3YDB6B9fDYSIgRDGm948WjZn60zMpRZhIwJtZSMk2fYsa8kLINU20)
+`과육색이 하얀색인 것이 특징이다.`
+
+2. __황도__
+
+![황도](https://m.eejmall.com/web/product/big/201708/209_shop1_268689.jpg)
+
+`과육색이 황색인 것이 특징이다.`
